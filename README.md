@@ -1,4 +1,4 @@
-# Duck Duck Goose
+# Data Viz App
 
 This repository houses all files for our final project.
 
@@ -10,12 +10,6 @@ This repository houses all files for our final project.
 
 ## Team members 
 
-- [Brendan Nugent](https://github.com/nugentb7)
-- [Connor Hornibrook](https://github.com/cfh294)
-- [Andy Cuccinello](https://github.com/Djphoenix719)
-- [Christene Harris](#)
-- [Christina Bannon](#)
-- [Lixaris Martini](#)
 
 ## Initializing the Database
 
